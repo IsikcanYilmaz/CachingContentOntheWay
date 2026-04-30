@@ -20,8 +20,21 @@ I am still cleaning up this repo so please be patient. Feel free to write to me 
 # Citing our work
 - Please use the following Bibtex for any citations:
 ```
-TODO
-
+@INPROCEEDINGS{Yilm2604:Revisiting,
+AUTHOR="Isikcan Yilmaz and Jonas Schulz and Siddharth Das and Ricardo J. B. Pousa
+and Leonardo Gonzalez and Juan A. Cabrera and Patrick Seeling and Frank
+H.P. Fitzek",
+TITLE="Revisiting in-Network Caches on Constrained {IEEE} {802.15.4} {IoT}
+Hardware: Reproducible Testbeds and Future Research Motivation",
+BOOKTITLE="2026 IEEE Wireless Communications and Networking Conference Workshops
+(WCNCW): WS14: IEEE 1st International Workshop on Next-Generation Advanced
+Industrial Internet of Things (IIoT) (WCNCW 2026 - WS14)",
+ADDRESS="KUALA LUMPUR, Malaysia",
+PAGES="5.94",
+DAYS=13,
+MONTH=apr,
+YEAR=2026
+}
 ```
 
 
